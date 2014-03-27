@@ -87,7 +87,7 @@ At this point, we should have an application named *todo* created as well as hav
 
 **Note:** The source code for this application is available on Github at the following URL:
 
-	https://github.com/ichristo/todo-javaee6
+	https://github.com/dcjbug/todo-javaee6
 	
 
 The first thing that we have to do is to create the domain model for the *todo application*. The application will have a single entity named *Todo* as shown below. The entity shown below is a simple JPA entity with JPA and bean validation annotations.  Create a source file named *Todo.java* in the *todo/src/main/java/com/todo/domain* directory with the following contents:
